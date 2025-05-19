@@ -77,11 +77,11 @@ types-setuptools==68.2.0.0
     # via -r build-requirements.txt
 typing-extensions==4.8.0
     # via -r mypy-requirements.txt
-virtualenv==20.24.5
+virtualenv==20.26.6
     # via pre-commit
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==68.2.2
+setuptools==78.1.1
     # via
     #   -r test-requirements.in
     #   nodeenv
